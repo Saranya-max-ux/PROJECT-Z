@@ -1,4 +1,5 @@
 🌤️ Weather Monitoring App
+
 📜 Overview
 The Weather Monitoring App is designed to provide real-time weather updates for multiple cities using the OpenWeatherMap API. This application offers a user-friendly interface, ensuring that users are informed about current weather conditions wherever they are, helping them make better decisions about their day.
 
@@ -6,6 +7,7 @@ The Weather Monitoring App is designed to provide real-time weather updates for 
 🌍 Live Data Retrieval: Fetch up-to-date weather information for various cities, including Delhi, Mumbai, Chennai, and more. Stay informed about weather conditions to plan your activities accordingly.
 🌡️ Comprehensive Weather Reports: Displays essential metrics such as temperature, humidity, wind speed, and weather descriptions. Gain insights into the climate to dress appropriately and prepare for outdoor activities.
 ⚠️ Robust Error Handling: Manages issues gracefully, providing informative error messages for invalid API keys or incorrect city names. Enjoy a seamless user experience without frustrating disruptions.
+
 📦 Prerequisites
 Before running the project, ensure you have the following installed:
 
